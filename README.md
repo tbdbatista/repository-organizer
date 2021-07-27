@@ -1,2 +1,8 @@
 # Github-Bootcamp-DIO-Everis
-Bootcamp DIO / Everis - Módulo repositório no Github
+
+Bootcamp DIO / Everis - Desafio de projeto: Repositório no Github
+Prof. Falvo Jr.
+
+
+## Links utilizados
+1. [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)

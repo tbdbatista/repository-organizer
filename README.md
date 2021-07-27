@@ -6,3 +6,4 @@ Prof. Falvo Jr.
 
 ## Links utilizados
 1. [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+2. [Editor Markdown - Atom](https://atom.io/)

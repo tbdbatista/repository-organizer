@@ -4,10 +4,10 @@ Repository created for DIO/Everis Bootcamp
 Bootcamp DIO / Everis - Design Challenge: Repository on Github
 Prof. Falvo Jr.
 
-##Objetive
+## Objetive
 List and describe repositories created for bootcamps performed on the DIO platform, using git/github technology.
 
-1. [Java Collections]{https://github.com/tbdbatista/JavaCollectionsBootcampGFT) - Module designed to demonstrate the implementations of the Collection interface in Java.
+1. [Java Collections](https://github.com/tbdbatista/JavaCollectionsBootcampGFT) - Module designed to demonstrate the implementations of the Collection interface in Java.
 2. [Java Advanced](https://github.com/tbdbatista/JavaAvancadoBootcampGFT) - Module designed to demonstrate the use of advanced functions in Java.
 3. [PostgreSQL](https://github.com/tbdbatista/postgreSQL) - First steps in creating a database using PostgreSQL tool.
 4. [Project Person API](https://github.com/tbdbatista/PersonApiProject) - First project created for DIO/GFT BootCamp using SprintBoot REST API (people management system).

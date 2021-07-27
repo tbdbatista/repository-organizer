@@ -13,6 +13,6 @@ List and describe repositories created for bootcamps performed on the DIO platfo
 4. [Project Person API](https://github.com/tbdbatista/PersonApiProject) - First project created for DIO/GFT BootCamp using SprintBoot REST API (people management system).
 5. [Beer Stock API](https://github.com/tbdbatista/BeerStockApi) - Final project of GFT/DIO Bootcamp. Implementing a Beer Stock Api controll to apply test routines.
 
-## Links úteis
+## Useful links
 1. [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 2. [Markdown editor - Atom](https://atom.io/)
